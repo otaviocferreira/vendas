@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+
+.av-table-vendas-col-small {
+	width: 100px;
+	text-align: center;
+} 
+
+.av-table-vendas-col-medium {
+	width: 200px;
+	text-align: center;
+}
+
+.av-table-vendas-col-large {
+	width: 350px;
+	text-align: center;
+}
